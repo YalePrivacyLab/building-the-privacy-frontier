@@ -2,6 +2,8 @@ These materials are for an online Privacy Lab event. See description below. All 
 
 ----
 
+## Privacy Lab: Building the Privacy Frontier
+
 **May 11, 2023 | 1:00PM - 5:30PM EDT (U.S. Eastern Time UTC-4)**
 
 Want to learn about the future of digital privacy? Join us online for a discussion of recent developments in emerging privacy and anonymity technologies, with presentations by builders and architects of free and open-source software projects. We'll talk about anonymous mix networks, cryptocurrency, and detection of data snooping by intermediaries.
