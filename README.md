@@ -1,4 +1,4 @@
-These materials are for an online Privacy Lab event. See description below. All work in this repository is copyright &copy; 2023 Sean O'Brien and licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+These materials are for an online Privacy Lab event. See description below. All work in this repository is copyright &copy; 2023 Sean O'Brien (sean.obrien@yale.edu) and licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ----
 
