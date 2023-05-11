@@ -9,7 +9,7 @@ This event is organized by the **Privacy Lab** initiative and will be hosted on 
 
 * **1:00PM EDT** - **Esther Onfroy** of Defensive Lab Agency and **PiRogue** project [https://pts-project.org](https://pts-project.org)
 
-      Esther will demonstrate PiRogue tool suite (PTS), powerful software for mobile forensic & network analysis.
+      Esther will discuss PiRogue tool suite (PTS), powerful software for mobile forensic & network analysis.
 
 * **2:00PM EDT** - **Ahmed Ghappour**, Associate Professor of Law, BU School of Law and General Counsel for **Nym** [https://nymtech.net/](https://nymtech.net/)
       Ahmed will discuss the Nym mix network, mass surveillance, and the importance of network privacy and its place in the privacy stack.
